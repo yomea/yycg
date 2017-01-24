@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-codec-1.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-logging-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/junit-4.11.jar" sourcepath="C:/Users/Thinkpad/.m2/repository/junit/junit/4.11/junit-4.11-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/log4j-1.2.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/poi-3.10-FINAL-20140208.jar" sourcepath="C:/Users/Thinkpad/.m2/repository/org/apache/poi/poi/3.10-FINAL/poi-3.10-FINAL-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/poi-examples-3.10-FINAL-20140208.jar" sourcepath="C:/Users/Thinkpad/.m2/repository/org/apache/poi/poi-examples/3.10-FINAL/poi-examples-3.10-FINAL-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/poi-excelant-3.10-FINAL-20140208.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/poi-ooxml-3.10-FINAL-20140208.jar" sourcepath="C:/Users/Thinkpad/.m2/repository/org/apache/poi/poi-ooxml/3.10-FINAL/poi-ooxml-3.10-FINAL-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/poi-scratchpad-3.10-FINAL-20140208.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ojdbc14.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/stax-api-1.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/xercesImpl.jar" sourcepath="C:/Users/Thinkpad/.m2/repository/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
